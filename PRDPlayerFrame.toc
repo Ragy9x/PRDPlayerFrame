@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: PRD Player Frame
+## Notes: Turns the Personal Resource Display into a full clickable Player Frame with a compact red combat frame around the name, top-right level badge, full secondary name, instant target combo point hiding, and Options menu.
+## Version: 1.0
+## IconTexture: Interface\AddOns\PRDPlayerFrame\icon
+## SavedVariables: PRDPlayerFrameDB
+
+PRDPlayerFrame.lua
